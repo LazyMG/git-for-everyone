@@ -1,1 +1,1 @@
-<24번, 25번>
+Title: Git for Everyone
